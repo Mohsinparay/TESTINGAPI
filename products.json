@@ -1,0 +1,41 @@
+[
+    {
+        "name":"iphone",
+        "price":"152",
+        "featured":true,
+        "company":"apple"
+    },
+
+    {
+        "name":"iphone11",
+        "price":"230",
+        "featured":true,
+        "company":"apple"
+    }
+    ,
+    
+    {
+        "name":"iwatch",
+        "price":"205",
+      
+        "company":"apple"
+    }
+    ,
+    
+    {
+        "name":"s20",
+        "price":"180",
+        
+        "company":"samsung"
+    }
+    
+    ,
+    
+    {
+        "name":"mi20",
+        "price":"199",
+        
+        "company":"xiomi"
+    }
+    
+]
